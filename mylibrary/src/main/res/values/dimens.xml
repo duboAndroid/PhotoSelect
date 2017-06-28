@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="commonSize0.3">3sp</dimen>
+    <dimen name="commonSize0.5">5sp</dimen>
+    <dimen name="commonSize0.7">7sp</dimen>
+    <dimen name="commonSize1">10sp</dimen>
+    <dimen name="commonSize1.1">11.3sp</dimen>
+    <dimen name="commonSize1.2">12.3sp</dimen>
+    <dimen name="commonSize1.3">13sp</dimen>
+    <dimen name="commonSize1.33">13.3sp</dimen>
+    <dimen name="commonSize1.4">14sp</dimen>
+    <dimen name="commonSize1.5">15sp</dimen>
+    <dimen name="commonSize1.6">15.3sp</dimen><!--主字体大小 -->
+    <dimen name="commonSize1.7">16.3sp</dimen><!--按钮字体大小-->
+    <dimen name="commonSize1.8">18sp</dimen>
+    <dimen name="commonSize1.9">19sp</dimen>
+    <dimen name="commonSize2">20sp</dimen>
+    <dimen name="commonSize2.1">21sp</dimen>
+    <dimen name="commonSize2.2">22sp</dimen>
+    <dimen name="commonSize2.3">23sp</dimen>
+    <dimen name="commonSize2.4">24sp</dimen>
+    <dimen name="commonSize2.5">25sp</dimen>
+    <dimen name="commonSize2.6">26sp</dimen>
+    <dimen name="commonSize2.7">27sp</dimen>
+    <dimen name="commonSize2.8">28sp</dimen>
+    <dimen name="commonSize2.9">29sp</dimen>
+    <dimen name="commonSize3">30sp</dimen>
+    <dimen name="commonSize3.5">35sp</dimen>
+    <dimen name="commonSize3.6">36sp</dimen>
+    <dimen name="commonSize3.4">34sp</dimen>
+    <dimen name="commonSize4">40sp</dimen>
+    <dimen name="commonSize4.3">43sp</dimen>
+    <dimen name="commonSize5">50sp</dimen>
+    <dimen name="commonSize6">60sp</dimen>
+</resources>

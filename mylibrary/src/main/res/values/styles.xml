@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light">   <!-- 这个是AppCompatActivity 里用的Theme.AppCompat.Light.DarkActionBar-->
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item> <!--1   去掉标题栏-->
+    </style>
+
+    <style name="notitle">                              <!--2  去掉标题栏-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!--this.requestWindowFeature(Window.FEATURE_NO_TITLE);//3  去掉标题栏-->
+
+</resources>
